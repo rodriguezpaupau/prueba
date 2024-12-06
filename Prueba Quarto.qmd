@@ -30,3 +30,5 @@ The `echo: false` option disables the printing of code (only output is displayed
 ## Y te enamorás 
 
 ![](images/ES MAGICO.jpg)
+
+### QUE SE SOLUCIONE POR FAVOR 
